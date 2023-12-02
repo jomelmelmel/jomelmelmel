@@ -1,4 +1,4 @@
-## **_Oh, salamat diay sa pagduaw dinhi!_** 👋
+# **_Oh, salamat diay sa pagduaw dinhi!_** 👋
 
 basi'g gipamaol naka'g tinuplok, kuhaa lang ang haplas diha.
 ###### joke.
