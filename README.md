@@ -1,4 +1,7 @@
-<h1 font-family="serif" font-style="italic" font-weight="bold"> Oh, salamat diay sa pagdu-aw dinhi ! &#128075;</h1>
+<h1 font-family=serif; font-style=italic; font-weight=bold> Oh, salamat diay sa pagdu-aw dinhi ! &#128075;</h1>
+<br>
+<p>basi'g gipama-ol naka'g tinuplok diha, kuhaa lang ang haplas diha sa kilid.</p>
+<p font-size=6pt>joke.</p>
 
 <!--
 **jomelmelmel/jomelmelmel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
