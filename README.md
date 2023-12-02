@@ -1,8 +1,8 @@
 ## **_Oh, salamat diay sa pagduaw dinhi!_** 👋
 
-basi'g gipama-ol naka'g tinuplok, kuhaa lang ang haplas diha.
+basi'g gipamaol naka'g tinuplok, kuhaa lang ang haplas diha.
 ###### joke.
-<img src="https://github.com/jomelmelmel/jomelmelmel/raw/main/sinulatan.png" alt="akong sinulatan. ✨" width=500"/>
+<a href="#"><img src="https://github.com/jomelmelmel/jomelmelmel/raw/main/sinulatan.png" width="500" /></a>
 <!--
 **jomelmelmel/jomelmelmel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
