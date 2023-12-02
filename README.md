@@ -1,8 +1,8 @@
-<h1 style="font-family:serif; font-style:italic; font-weight:bold"> Oh, salamat diay sa pagdu-aw dinhi! &#128075;</h1>
-<br>
-<p>basi'g gipama-ol naka'g tinuplok diha, kuhaa lang ang haplas diha sa kilid.</p>
-<p style="font-size:6pt">joke.</p>
-
+## **Oh, salamat diay sa pagduaw dinhi!_** 👋
+======
+basi'g gipama-ol naka'g tinuplok, kuhaa lang ang haplas diha.
+###### joke.
+![alt text](https://github.com/jomelmelmel/jomelmelmel/raw/main/sinulatan.png)
 <!--
 **jomelmelmel/jomelmelmel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
