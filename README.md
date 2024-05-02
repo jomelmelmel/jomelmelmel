@@ -1,6 +1,6 @@
 # **_oh helo there hooman, salamat diay sa pagduaw dinhi!_** 👋
 
-basin ug gipaningot naka'g tinuplok, pahangin lang suah diri bahala'g kadali 🌬️
+basi'g gipaningot naka og tinuplok diha, pahangin lang suah diri bahala'g kadali 🌬️
 ###### it's been a joy to be here. enjoy yourself~
 <a href="#"><img src="https://github.com/jomelmelmel/jomelmelmel/raw/main/sinulatan.png" width="500" /></a>
 <!--
