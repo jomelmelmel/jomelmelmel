@@ -1,7 +1,7 @@
 # **_Oh, salamat diay sa pagduaw dinhi!_** 👋
 
-basin og gipamaol naka'g tinuplok, kuhaa lang ang haplas diha.
-###### joke. enjoy yourself.
+basin og gipamaol naka'g tinuplok, pahangin lang suah mo diha.
+###### enjoy yourself~
 <a href="#"><img src="https://github.com/jomelmelmel/jomelmelmel/raw/main/sinulatan.png" width="500" /></a>
 <!--
 **jomelmelmel/jomelmelmel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
