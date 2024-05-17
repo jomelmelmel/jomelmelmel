@@ -6,13 +6,13 @@
 ~~~python
 who = "\x79\x61"
 ano = "\x70"+who[1]
-bangBang = "!!"
+bangbang = "!!"
 unsa = "\x74\x6f"
 what = ano + unsa
-toWho = what[2:4]+f"{who}"
-huh = what+toWho
+to_who = what[2:4]+f"{who}"
+huh = what+to_who
 ha = huh.upper()
-haaa = ha+bangBang
+haaa = ha+bangbang
 print(haaa)
 ~~~
 ###### ᵃˡᵃ ʷᵃ ᵇᵃˡᵒᵒᵒᵒᵒᵒ···
