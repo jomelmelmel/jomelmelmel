@@ -1,6 +1,6 @@
-# **_oh helo there, salamat diay sa pagduaw dinhi!_** 👋
+# **_oh helo there, salamat diay sa pagduaw dinhi_** 👋
 
-##### it's been a joy to be here. nah, it's great to be here! unsa ni gmall??
+##### it's been a joy to be here. nah, [it's great to be here!](## "UNSA NI GMALL?!")
 ###### enjoy yourself~
 
 ~~~python
