@@ -1,7 +1,8 @@
 # **_oh helo there, salamat diay sa pagduaw dinhi_** 👋
-
+<!--
 ##### it's been a joy to be here. nah, [it's great to be here!](## "UNSA NI GMALL?!")
 ###### enjoy yourself~
+-->
 
 ~~~python
 who = "\x79\x61"
