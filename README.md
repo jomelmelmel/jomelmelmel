@@ -1,5 +1,5 @@
-# [**Bossinggggg!! Kamusta ang buhay-buhay?!**](https://www.youtube.com/watch?v=Lc9-PBEtXhI)
-## **_helo there hooman, thanks diay for stopping by sa aking munting balay, bilin tsinelas huh!_** 👋
+# [**Bossinggggg!! Kumusta ang buhay-buhay?!**](https://www.youtube.com/watch?v=Lc9-PBEtXhI)
+## **_helo there hooman, thanks diay for stopping by sa aking munting balay, bilin tsinelas!_** 👋
 <!--
 ##### it's been a joy to be here. nah, [it's great to be here!](## "UNSA NI GMALL?!")
 -->
